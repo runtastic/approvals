@@ -1,6 +1,5 @@
 require 'json'
 require 'fileutils'
-require 'nokogiri'
 require 'approvals/version'
 require 'approvals/combination_approvals'
 require 'approvals/configuration'
